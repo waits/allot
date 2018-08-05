@@ -1,0 +1,2 @@
+# allot
+Personal budget app
